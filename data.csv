@@ -1,0 +1,9 @@
+nstall C++ compiler and build tools. On *NIX platforms it is usually GCC/G++ or 
+Clang compiler and Make or Ninja build tool. On Windows it can be Visual Studio 
+IDE or MinGW-w64 compiler. Native toolchains for Android are provided in the 
+Android NDK. XCode IDE is used to build software for OSX and iOS platforms.
+Install CMake from the official site or some other source.
+Get other third-party dependencies: libraries with extra functionality like 
+decoding videos or showing GUI elements; libraries providing optimized 
+implementations of selected algorithms; tools used for documentation 
+generation and other extras. Check OpenCV configuration options reference for available options and corresponding dependencies.
